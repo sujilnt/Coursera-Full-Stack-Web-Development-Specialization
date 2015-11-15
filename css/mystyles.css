@@ -61,3 +61,11 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
+
+.navbar .navbar-form .checkbox {
+	color: #FFF;
+}
+
+a[href="#table"] {
+	margin-top: 100px;
+}
